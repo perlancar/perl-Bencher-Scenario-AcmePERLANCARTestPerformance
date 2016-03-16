@@ -1,5 +1,11 @@
 Revision history for Bencher-Scenario-AcmePERLANCARTestPerformance
 
+0.02    2016-03-16 (PERLANCAR)
+
+        - [build] Rebuild to actually shows the progression between module
+          versions.
+
+
 0.01    2016-03-15 (PERLANCAR)
 
         - First release.
