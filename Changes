@@ -1,5 +1,13 @@
 Revision history for Bencher-Scenario-AcmePERLANCARTestPerformance
 
+0.03    2016-03-17 (PERLANCAR)
+
+	- No functional changes.
+
+	- [dist] Show module startup overhead benchmark for multiple module
+	  versions too.
+
+
 0.02    2016-03-16 (PERLANCAR)
 
         - [build] Rebuild to actually shows the progression between module
